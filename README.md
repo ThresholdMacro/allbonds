@@ -18,5 +18,6 @@ This simple repo uses allbonds.py script to create an interface with OpenBB for 
       Successfully read 80505 rows from ${{ github.workspace }}/allbonds.csv
       INFO:     127.0.0.1:57403 - "GET /get_all_bonds HTTP/1.1" 200 OK
       INFO:     127.0.0.1:57562 - "OPTIONS /get_all_bonds HTTP/1.1" 200 OK
-9) Copy the API endpoint (in this case http://127.0.0.1:8000 ) & enter it into OpenBB Apps connection, being sure to name the connection and test it.
+   
+9) Copy the API endpoint ( http://127.0.0.1:8000 ) & enter it into OpenBB Apps connection, being sure to name the connection and test it.
 10) Open the widget by searching for 'allbonds' in the 'widget' repository in OpenBB
