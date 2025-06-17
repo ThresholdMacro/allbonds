@@ -6,6 +6,7 @@ This simple repo uses allbonds.py script to create an interface with OpenBB for 
 5) This will generate the widgets.json and serve it to Workspace.
 6) Check that the api is running, returning the local address & port number (8000)
 7) This will look something like this:
+   
       To access this data from OpenBB Workspace, use the link displayed after the application startup completes.
       Chrome is the recommended browser. Other browsers may conflict or require additional configuration.
       Documentation is available at /docs.
